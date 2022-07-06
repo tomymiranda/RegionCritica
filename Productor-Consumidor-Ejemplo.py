@@ -48,7 +48,3 @@ threading.Thread(target=Productor, daemon=True).start()
 threading.Thread(target=Consumidor, daemon=True).start()
 
 time.sleep(300)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
